@@ -1,3 +1,5 @@
+import circus.Bird;
+
 public class Duck extends Bird {
     @Override
     public String speak() {
